@@ -4,8 +4,8 @@
   "name": "Skello API",
   "colors": {
     "primary": "#1b6dfc",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "light": "#50a5ff",
+    "dark": "#1b6dfc"
   },
   "favicon": "/favicon.png",
   "navigation": {
